@@ -162,5 +162,3 @@ for(var i =0;i < covid7.length;i++){
     let option = covid7[i];
     selectBox10.options.add( new Option(option.text, option.value, option.selected)                   );
 }
-
-
